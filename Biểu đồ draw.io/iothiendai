@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T03:21:43.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.0" etag="AyD7xaic64IjKv79yiAD" type="github"><diagram id="T5-VLAXICfDDzl9SM7m_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-28T03:33:22.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-HZF4AQok0jP0qMcM6fD" version="14.8.0" type="github">
+  <diagram id="T5-VLAXICfDDzl9SM7m_" name="Page-1">
+    <mxGraphModel dx="1662" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/public-services-filledoutline/64/TOLL-toll_road-barriers-barrier-secure-security-stop-128.png" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHlHU8dmYf9X3BsYzOru-2" target="qHlHU8dmYf9X3BsYzOru-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-2" value="Cảm biến hồng ngoại" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="104" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/public-services-filledoutline/64/TOLL-toll_road-barriers-barrier-secure-security-stop-128.png" vertex="1" parent="1">
+          <mxGeometry x="670" y="170" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qHlHU8dmYf9X3BsYzOru-6" target="qHlHU8dmYf9X3BsYzOru-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-6" value="Cảm biến hồng ngoại" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-7" value="Cửa vào" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-8" value="Cửa ra" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-9" value="" style="shape=mxgraph.signs.travel.parking_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="74" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-10" value="" style="shape=mxgraph.signs.travel.parking_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="513" y="200" width="74" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.405;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qHlHU8dmYf9X3BsYzOru-11" target="qHlHU8dmYf9X3BsYzOru-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-11" value="Cảm biến hồng ngoại" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qHlHU8dmYf9X3BsYzOru-12" target="qHlHU8dmYf9X3BsYzOru-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qHlHU8dmYf9X3BsYzOru-12" value="Cảm biến hồng ngoại" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
