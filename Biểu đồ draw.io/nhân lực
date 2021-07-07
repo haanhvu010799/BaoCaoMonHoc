@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2021-07-04T01:41:47.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="MmY80-VoitVrwWBAFQwH" version="14.8.3" type="github">
+  <diagram id="K_g0BLa3LZqbROeH4DXh" name="Page-1">
+    <mxGraphModel dx="1146" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PZCI314yOIZqmFnogIV3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZCI314yOIZqmFnogIV3-1" target="PZCI314yOIZqmFnogIV3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZCI314yOIZqmFnogIV3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZCI314yOIZqmFnogIV3-1" target="PZCI314yOIZqmFnogIV3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZCI314yOIZqmFnogIV3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PZCI314yOIZqmFnogIV3-1" target="PZCI314yOIZqmFnogIV3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZCI314yOIZqmFnogIV3-1" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Project Manager&lt;br&gt;Vũ Hà Anh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="170" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZCI314yOIZqmFnogIV3-3" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Desginer + Frontend Developer&lt;br&gt;Phạm Thùy Nhung&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZCI314yOIZqmFnogIV3-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Backend Developer&lt;br&gt;Lê Hoàng Thịnh&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="320" width="196" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZCI314yOIZqmFnogIV3-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px&quot;&gt;Tester&lt;br&gt;Phạm Long Nhật&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZCI314yOIZqmFnogIV3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZCI314yOIZqmFnogIV3-9" target="PZCI314yOIZqmFnogIV3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZCI314yOIZqmFnogIV3-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Chủ đầu tư&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="126" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
